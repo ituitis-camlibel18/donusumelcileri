@@ -3,8 +3,21 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c2a1da682e1caaa36eaa9e9de46f4e26",
+  ".vscode/settings.json": "19751b2a32e46d1ba1477f357123a898",
+"assets/AssetManifest.json": "09b71f2e7f189cc7cc41cc2a515bb2de",
+"assets/assets/images/1.jpeg": "29d5f4cea25bf10b8a0b3956fb913c15",
+"assets/assets/images/2.jpeg": "2ff1eb82e5646099e0d49103bc781f3f",
+"assets/assets/images/3.jpeg": "8619c079916505c33e332a6e1100c065",
+"assets/assets/images/4.jpeg": "93ea400261e5603e7c7c5851f75c4eff",
+"assets/assets/images/5.jpeg": "15680fd925280056818e6fbc594fd9a0",
+"assets/assets/images/6.jpeg": "9256cbd5734fd63582da479014ae7304",
+"assets/assets/images/bg.jfif": "484f19c10ddfeb043570037a51d142b9",
 "assets/assets/images/bg.png": "acd434239d848b6c563183378d48f9d7",
+"assets/assets/images/LOGO.png": "7e5bbd781c4e70bbe21468517b9c57f6",
+"assets/assets/images/LOGO1.png": "ecd0425a759b83597fe6985aa260e017",
+"assets/assets/images/LOGO11.png": "52fe809816d56a0dcd3a999c7e5c6aaf",
+"assets/assets/images/LOGO2.png": "26e5f7adf48b32d6688213eab4eee794",
+"assets/assets/images/LOGO3.png": "0dc112e6eb45ee2d8207773cfd02a979",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "2d7236aca695ba4cd213a3478e55d740",
@@ -19,9 +32,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b5f98782ee90ff209ea6f91a422baed9",
-"/": "b5f98782ee90ff209ea6f91a422baed9",
-"main.dart.js": "7fcbd4ac0116fe72b2371d4beda39441",
+"index.html": "ad364e369f980e8d008a3de4b15f55a3",
+"/": "ad364e369f980e8d008a3de4b15f55a3",
+"main.dart.js": "a80c9efe3b9f9cd5982ff35c50c8ab17",
 "manifest.json": "a79e260526fded47ea4f6d32817a940b",
 "version.json": "90408c37021879ece58086e4b88c73d0"
 };
